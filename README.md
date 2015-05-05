@@ -14,3 +14,8 @@ https://www.youtube.com/watch?v=E-N7Hm7Yq6c
 
 ## Sam Altman - The days are long but the decades are short
 http://blog.samaltman.com/the-days-are-long-but-the-decades-are-short
+
+## Marc Grabanski
+https://twitter.com/1Marc/status/592459186572632064
+
+- [x] Learn how to sell.

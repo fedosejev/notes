@@ -4,7 +4,7 @@ Notes on lectures, blog posts, etc.
 ## Gary Vaynerchuk | USC Entrepreneur Talk | 2015
 https://www.youtube.com/watch?v=hSjNhtk-Yik
 
-- [x] Be [__self-aware__](http://www.change-management-coach.com/self-awareness.html). Do __you__. Stick to your DNA.
+- [x] Be [__self-aware__](./self-awareness.md). Do __you__. Stick to your DNA.
 - [x] Bet on your __strengths__. Don't give a fuck about your weaknesses. Focus on what you're good at.
 - [x] __Change__ your mind (regularly).
 - [x] Surround yourself with people who are __the opposite of you__.

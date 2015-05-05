@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=hSjNhtk-Yik
 - [x] __Change__ your mind (regularly).
 - [x] Surround yourself with people who are __the opposite of you__.
 - [x] __Sell time__.
-- [x] Put __your thougths__ out to the World.
+- [x] Put __your thougths__ out to the World. Their __value__ can be extreme.
 - [x] __Ideas__ are shit. __Execution__ is the king.
 - [x] Think __long term__.
 - [x] Build __EQ__.

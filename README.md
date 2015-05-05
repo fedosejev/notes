@@ -4,8 +4,8 @@ Notes on lectures, blog posts, etc.
 ## Gary Vaynerchuk | USC Entrepreneur Talk | 2015
 https://www.youtube.com/watch?v=hSjNhtk-Yik
 
-- [x] Be __self-aware__. Do __you__.
-- [x] Bet on your __strengths__. Don't give a fuck about your weaknesses.
+- [x] Be __self-aware__. Do __you__. Stick to your DNA.
+- [x] Bet on your __strengths__. Don't give a fuck about your weaknesses. Focus on what you're good at.
 - [x] __Change__ your mind (regularly).
 
 ## Линия жизни. Владимир Соловьев

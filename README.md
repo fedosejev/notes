@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=hSjNhtk-Yik
 - [x] Bet on your __strengths__. Don't give a fuck about your weaknesses. Focus on what you're good at.
 - [x] __Change__ your mind (regularly).
 - [x] Surround yourself with people who are __the opposite of you__.
-- [x] __Sell time__.
+- [x] __Sell time__. People will overpay for time.
 - [x] Put __your thougths__ out to the World. Their __value__ can be extreme.
 - [x] __Ideas__ are shit. __Execution__ is the king.
 - [x] Think __long term__.

@@ -10,6 +10,7 @@ https://www.youtube.com/watch?v=hSjNhtk-Yik
 - [x] Surround yourself with people who are __the opposite of you__.
 - [x] __Sell time__.
 - [x] Put __your thougths__ out to the World.
+- [x] __Ideas__ are shit. __Execution__ is the king.
 
 ## Линия жизни. Владимир Соловьев
 https://www.youtube.com/watch?v=E-N7Hm7Yq6c

@@ -11,6 +11,7 @@ https://www.youtube.com/watch?v=hSjNhtk-Yik
 - [x] __Sell time__.
 - [x] Put __your thougths__ out to the World.
 - [x] __Ideas__ are shit. __Execution__ is the king.
+- [x] Think __long term__.
 
 ## Линия жизни. Владимир Соловьев
 https://www.youtube.com/watch?v=E-N7Hm7Yq6c

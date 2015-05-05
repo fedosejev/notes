@@ -19,4 +19,4 @@ http://blog.samaltman.com/the-days-are-long-but-the-decades-are-short
 ## Marc Grabanski
 https://twitter.com/1Marc/status/592459186572632064
 
-- [x] Learn how to sell.
+- [x] Learn how to __sell__.

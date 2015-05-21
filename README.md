@@ -1,5 +1,5 @@
 # Notes
-Notes on lectures, blog posts, etc.
+Notes on lectures, blogs, films, etc.
 
 ## Gary Vaynerchuk | USC Entrepreneur Talk | 2015
 https://www.youtube.com/watch?v=hSjNhtk-Yik

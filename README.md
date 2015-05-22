@@ -39,3 +39,9 @@ https://twitter.com/1Marc/status/592459186572632064
 - [x] Sonoya Mizuno [просто](https://instagram.com/p/tbUAZagZAN/) [красавица](https://instagram.com/p/rTyyDGAZID/).
 - [x] Алкоголь погубил создателя.
 - [x] Освободись от мысли и твори.
+
+## Рунетология: Мария Подлеснова (RusBase)
+
+http://netology.ru/blog/runetologiya-mariya-podlesnova
+
+- [x] Российский венчурный рынок не интересен иностранным инвесторам.

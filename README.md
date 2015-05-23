@@ -39,6 +39,7 @@ https://twitter.com/1Marc/status/592459186572632064
 - [x] Sonoya Mizuno [просто](https://instagram.com/p/tbUAZagZAN/) [красавица](https://instagram.com/p/rTyyDGAZID/).
 - [x] Алкоголь погубил создателя.
 - [x] Освободись от мысли и твори.
+- [x] [Best scene!](https://www.youtube.com/watch?v=hGY44DIQb-A)
 
 ## Рунетология: Мария Подлеснова (RusBase)
 
@@ -48,5 +49,5 @@ http://netology.ru/blog/runetologiya-mariya-podlesnova
 
 ## Book: [Cashvertising](http://www.amazon.co.uk/Cashvertising-Secrets-Ad-agency-Psychology-Anything/dp/1601630328)
 
-- [x] > Biology is king.
+- [x] Biology is king.
 - [x] The first use of any product is inside the consumers' mind.

@@ -41,6 +41,8 @@ https://twitter.com/1Marc/status/592459186572632064
 - [x] Освободись от мысли и твори.
 - [x] [Best scene!](https://www.youtube.com/watch?v=hGY44DIQb-A)
 
+![](http://photos.vanityfair.com/2015/03/20/550c33c6d34b7410110104e5_ex-machina-dance.gif)
+
 ## Рунетология: Мария Подлеснова (RusBase)
 
 http://netology.ru/blog/runetologiya-mariya-podlesnova

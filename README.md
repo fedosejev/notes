@@ -48,4 +48,5 @@ http://netology.ru/blog/runetologiya-mariya-podlesnova
 
 ## Book: [Cashvertising](http://www.amazon.co.uk/Cashvertising-Secrets-Ad-agency-Psychology-Anything/dp/1601630328)
 
-- [x] Biology is king.
+- [x] > Biology is king.
+- [x] The first use of any product is inside the consumers' mind.

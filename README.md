@@ -4,7 +4,7 @@ Notes on lectures, blogs, films, etc.
 ## Gary Vaynerchuk | USC Entrepreneur Talk | 2015
 https://www.youtube.com/watch?v=hSjNhtk-Yik
 
-- [x] Be [__self-aware__](./self-awareness.md). Do __you__. Stick to your DNA. (Read that again.)
+- [x] Be [__self-aware__](./self-awareness.md). Do __you__. [Stick to your DNA](https://www.youtube.com/watch?v=j6tKf1IR5j8). (Read that again.)
 - [x] Bet on your __strengths__. Don't give a fuck about your weaknesses. Focus on what you're good at.
 - [x] __Change__ your mind (regularly).
 - [x] Surround yourself with people who are __the opposite of you__.

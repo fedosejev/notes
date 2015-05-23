@@ -45,3 +45,7 @@ https://twitter.com/1Marc/status/592459186572632064
 http://netology.ru/blog/runetologiya-mariya-podlesnova
 
 - [x] Российский венчурный рынок не интересен иностранным инвесторам.
+
+## Book: [Cashvertising](http://www.amazon.co.uk/Cashvertising-Secrets-Ad-agency-Psychology-Anything/dp/1601630328)
+
+- [x] Biology is king.

@@ -53,3 +53,9 @@ http://netology.ru/blog/runetologiya-mariya-podlesnova
 
 - [x] Biology is king.
 - [x] The first use of any product is inside the consumers' mind.
+
+## Video:  LSE: Management of Information Systems and Digital Innovation (MISDI)
+
+https://www.youtube.com/watch?v=4JIbhaUqVQc
+
+> Shape the future rather than fit in the past.

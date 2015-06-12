@@ -59,3 +59,9 @@ http://netology.ru/blog/runetologiya-mariya-podlesnova
 https://www.youtube.com/watch?v=4JIbhaUqVQc
 
 > Shape the future rather than fit in the past.
+
+## Chappie
+
+![](http://upload.wikimedia.org/wikipedia/en/7/71/Chappie_poster.jpg)
+
++ Создателя жалко.
